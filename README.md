@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # flume->kafka->spark->Solr: data-pipeline
 This project creates data pipeline which gets data from flume sender and processes using Kafka-> spark and stores in Solr through a single script.
 
@@ -36,8 +36,3 @@ Dashboard URL -  http://<Your mahchine name>:8963/solr
 
 ![My Image](https://github.com/sricheta92/Data-Pipeline/blob/master/solr.png)
 
-
-=======
-# Data-Pipeline
-Automated data pipeline from Flume->Kafka->Spark-Solr.
->>>>>>> 3bb158ce93b890b3027651e47e8081ffd0136dcb
