@@ -1,5 +1,5 @@
 
-# flume->kafka->spark->Solr: data-pipeline
+# Flume->Kafka->Spark->Solr: data-pipeline
 This project creates data pipeline which gets data from flume sender and processes using Kafka-> spark and stores in Solr through a single script.
 
 
